@@ -12,7 +12,7 @@
   - Populate database
   - CRUD
     - create
-    - retrieve
+    - read
     - update
     - delete
   - Exception handling
